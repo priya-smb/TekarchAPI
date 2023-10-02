@@ -1,0 +1,20 @@
+{
+  "login": {
+    "qa": "https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net",
+    "beta": "https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net",
+    "production": "https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net",
+
+    "endpoints": {
+      "login" : "/login",
+      "addData": "/addData",
+      "getData": "/getData"
+    }
+
+  },
+
+  "search" : {
+    "qa": "https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net",
+    "beta": "https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net",
+    "prod": "https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net"
+  }
+}

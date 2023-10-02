@@ -1,0 +1,20 @@
+{
+  "production": {
+    "uri": "",
+    "username": "priyanka@tekarch.com",
+    "password": "Admin123"
+  },
+
+  "qa": {
+    "uri": "",
+    "username": "qa.priyanka@tekarch.com",
+    "password": "Admin123"
+  },
+
+  "beta": {
+    "uri": "",
+    "username": "beta.priyanka@tekarch.com",
+    "password": "Admin123"
+  }
+
+}
